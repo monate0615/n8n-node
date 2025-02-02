@@ -4,12 +4,9 @@ This is an n8n community node. It lets you use Formbricks in your n8n workflows.
 
 Formbricks is an open-source experience management solution that lets you understand what customers think & feel about your product by running highly targeted surveys inside your product.
 
-[Installation](#installation)  
 [Operations](#operations)  
 [Credentials](#credentials) <!-- delete if no auth needed -->  
 [Compatibility](#compatibility)  
-[Usage](#usage) <!-- delete if not using this section -->  
-[Resources](#resources)
 
 ## Operations
 
